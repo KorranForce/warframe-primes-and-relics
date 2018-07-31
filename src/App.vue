@@ -5,3 +5,12 @@
 		<router-view></router-view>
 	</div>
 </template>
+
+<script>
+export default {
+	created(){
+		if(this.$router.currentRoute.path === '/')
+			this.$router.push('relics-opener')
+	}
+}
+</script>
