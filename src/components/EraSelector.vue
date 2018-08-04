@@ -1,10 +1,14 @@
 <template>
 	<div>
 		<label>Era:</label>
-		<input list="eras" v-model="selectedEra" placeholder="optional">
-		<datalist id="eras">
-			<option v-for="era in eras" v-bind:value="era" />
-		</datalist>
+		<span v-for="era in eras">
+			<input
+				type="radio"
+				v-bind:key="era"
+				v-bind:value="era"
+				v-model="selectedEra">
+			<label v-bind:for="era">{{era}}</label>
+		</span>
 	</div>
 </template>
 
@@ -20,9 +24,15 @@ export default {
 				return this.$store.state.selectedEra
 			},
 			set(value){
-				this.$store.commit('setEra', value)
+				this.$store.dispatch('changeEra', value)
 			}
 		}
 	}
 }
 </script>
+
+<style scoped>
+	span {
+		margin: 5px;
+	}
+</style>

@@ -13,14 +13,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Lith V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 71
+        "relicId": 73
       }
     ],
     "id": 0
@@ -39,14 +39,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 122
+        "relicId": 125
       },
       {
         "location": "Neo V7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 146
+        "relicId": 150
       }
     ],
     "id": 1
@@ -65,14 +65,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Neo N8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 130
+        "relicId": 133
       }
     ],
     "id": 2
@@ -117,49 +117,49 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 59
+        "relicId": 61
       },
       {
         "location": "Lith S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Lith T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 65
+        "relicId": 67
       },
       {
         "location": "Lith V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 71
+        "relicId": 73
       },
       {
         "location": "Lith Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 72
+        "relicId": 74
       },
       {
         "location": "Meso O1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 93
+        "relicId": 96
       },
       {
         "location": "Meso S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 97
+        "relicId": 100
       }
     ],
     "id": 4
@@ -185,28 +185,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 40
+        "relicId": 41
       },
       {
         "location": "Lith N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 54
+        "relicId": 56
       },
       {
         "location": "Lith S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Meso O2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 94
+        "relicId": 97
       }
     ],
     "id": 5
@@ -232,7 +232,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 131
+        "relicId": 134
       }
     ],
     "id": 6
@@ -284,14 +284,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Meso K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 86
+        "relicId": 88
       }
     ],
     "id": 8
@@ -310,21 +310,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 39
+        "relicId": 40
       },
       {
         "location": "Lith A2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 40
+        "relicId": 41
       },
       {
         "location": "Neo A1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 110
+        "relicId": 113
       }
     ],
     "id": 9
@@ -350,14 +350,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 93
+        "relicId": 96
       },
       {
         "location": "Neo N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 127
+        "relicId": 130
       }
     ],
     "id": 10
@@ -397,7 +397,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 30
+        "relicId": 31
       }
     ],
     "id": 11
@@ -417,6 +417,13 @@
         "rarity": "Uncommon",
         "chance": 0.11,
         "relicId": 27
+      },
+      {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 30
       }
     ],
     "id": 12
@@ -435,7 +442,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 41
+        "relicId": 42
+      },
+      {
+        "location": "Lith B4 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 45
       }
     ],
     "id": 13
@@ -454,7 +468,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 87
+        "relicId": 89
+      },
+      {
+        "location": "Neo R1 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 135
       }
     ],
     "id": 14
@@ -473,21 +494,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Meso C1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 75
+        "relicId": 77
       },
       {
         "location": "Meso S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 97
+        "relicId": 100
       }
     ],
     "id": 15
@@ -513,14 +534,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 105
+        "relicId": 108
       },
       {
         "location": "Neo N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 126
+        "relicId": 129
       }
     ],
     "id": 16
@@ -546,28 +567,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 89
+        "relicId": 91
       },
       {
         "location": "Meso V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 107
+        "relicId": 110
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 125
+        "relicId": 128
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 143
+        "relicId": 147
       }
     ],
     "id": 17
@@ -593,7 +614,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 127
+        "relicId": 130
       }
     ],
     "id": 18
@@ -612,14 +633,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 42
+        "relicId": 43
       },
       {
         "location": "Lith B3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 43
+        "relicId": 44
       }
     ],
     "id": 19
@@ -638,14 +659,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 36
+        "relicId": 37
       },
       {
         "location": "Neo B5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 115
+        "relicId": 118
       }
     ],
     "id": 20
@@ -664,14 +685,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 121
+        "relicId": 124
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 137
+        "relicId": 141
       }
     ],
     "id": 21
@@ -697,7 +718,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 84
+        "relicId": 86
       }
     ],
     "id": 22
@@ -716,14 +737,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 65
+        "relicId": 67
       },
       {
         "location": "Lith V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 71
+        "relicId": 73
       }
     ],
     "id": 23
@@ -749,35 +770,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 103
+        "relicId": 106
       },
       {
         "location": "Neo H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 119
+        "relicId": 122
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 129
+        "relicId": 132
       },
       {
         "location": "Neo T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 139
+        "relicId": 143
       },
       {
         "location": "Neo V7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 146
+        "relicId": 150
       }
     ],
     "id": 24
@@ -796,21 +817,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 74
+        "relicId": 76
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 111
+        "relicId": 114
       },
       {
         "location": "Neo B2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 112
+        "relicId": 115
       }
     ],
     "id": 25
@@ -829,21 +850,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 71
+        "relicId": 73
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 137
+        "relicId": 141
       }
     ],
     "id": 26
@@ -876,14 +897,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 114
+        "relicId": 117
       },
       {
         "location": "Neo B5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 115
+        "relicId": 118
       }
     ],
     "id": 27
@@ -902,7 +923,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 49
+        "relicId": 51
       }
     ],
     "id": 28
@@ -921,7 +942,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 118
+        "relicId": 121
       }
     ],
     "id": 29
@@ -940,7 +961,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 80
+        "relicId": 82
       }
     ],
     "id": 30
@@ -959,14 +980,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 32
+        "relicId": 33
       },
       {
         "location": "Meso M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 87
+        "relicId": 89
       }
     ],
     "id": 31
@@ -985,14 +1006,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 113
+        "relicId": 116
       },
       {
         "location": "Neo D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 116
+        "relicId": 119
       }
     ],
     "id": 32
@@ -1018,7 +1039,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 53
+        "relicId": 55
       }
     ],
     "id": 33
@@ -1037,14 +1058,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 41
+        "relicId": 42
       },
       {
         "location": "Meso B1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 73
+        "relicId": 75
       }
     ],
     "id": 34
@@ -1063,7 +1084,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 87
+        "relicId": 89
+      },
+      {
+        "location": "Meso N6 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 95
       }
     ],
     "id": 35
@@ -1078,11 +1106,18 @@
     "imageName": "blueprint.png",
     "drops": [
       {
+        "location": "Lith B4 Intact",
+        "type": "Relics",
+        "rarity": "Rare",
+        "chance": 0.02,
+        "relicId": 45
+      },
+      {
         "location": "Neo B3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 113
+        "relicId": 116
       }
     ],
     "id": 36
@@ -1101,7 +1136,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 41
+        "relicId": 42
+      },
+      {
+        "location": "Neo R1 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 135
       }
     ],
     "id": 37
@@ -1121,6 +1163,13 @@
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
         "relicId": 27
+      },
+      {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 30
       }
     ],
     "id": 38
@@ -1146,42 +1195,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 39
+        "relicId": 40
       },
       {
         "location": "Meso G1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 84
+        "relicId": 86
       },
       {
         "location": "Meso N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 90
+        "relicId": 92
       },
       {
         "location": "Meso S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 99
+        "relicId": 102
       },
       {
         "location": "Neo A1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 110
+        "relicId": 113
       },
       {
         "location": "Neo B5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 115
+        "relicId": 118
       }
     ],
     "id": 39
@@ -1221,42 +1270,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 36
+        "relicId": 37
       },
       {
         "location": "Lith N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 56
+        "relicId": 58
       },
       {
         "location": "Lith T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 66
-      },
-      {
-        "location": "Lith T2 Intact",
-        "type": "Relics",
-        "rarity": "Uncommon",
-        "chance": 0.25329999999999997,
-        "relicId": 66
+        "relicId": 68
       },
       {
         "location": "Lith V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 69
+        "relicId": 71
+      },
+      {
+        "location": "Meso B2 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 76
       },
       {
         "location": "Meso V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 104
+        "relicId": 107
       }
     ],
     "id": 40
@@ -1275,35 +1324,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 32
+        "relicId": 33
       },
       {
         "location": "Axi V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Axi V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 35
+        "relicId": 36
       },
       {
         "location": "Lith B2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 42
+        "relicId": 43
       },
       {
         "location": "Lith P1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 57
+        "relicId": 59
       }
     ],
     "id": 41
@@ -1343,42 +1392,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 88
+        "relicId": 90
       },
       {
         "location": "Meso N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 92
+        "relicId": 94
       },
       {
         "location": "Meso T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 102
+        "relicId": 105
       },
       {
         "location": "Neo B2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 112
+        "relicId": 115
       },
       {
         "location": "Neo N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 126
+        "relicId": 129
       },
       {
         "location": "Neo V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 141
+        "relicId": 145
       }
     ],
     "id": 42
@@ -1411,7 +1460,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 140
+        "relicId": 144
       }
     ],
     "id": 43
@@ -1444,63 +1493,63 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Lith N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 54
+        "relicId": 56
       },
       {
         "location": "Lith S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 58
+        "relicId": 60
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 89
+        "relicId": 91
       },
       {
         "location": "Meso N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 90
+        "relicId": 92
       },
       {
         "location": "Meso S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 96
+        "relicId": 99
       },
       {
         "location": "Meso V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 108
+        "relicId": 111
       },
       {
         "location": "Neo M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 122
+        "relicId": 125
       }
     ],
     "id": 44
@@ -1526,42 +1575,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Meso F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 81
+        "relicId": 83
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 111
+        "relicId": 114
       },
       {
         "location": "Neo N6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 128
+        "relicId": 131
       },
       {
         "location": "Neo S8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 138
+        "relicId": 142
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 143
+        "relicId": 147
       }
     ],
     "id": 45
@@ -1587,28 +1636,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 30
+        "relicId": 31
       },
       {
         "location": "Lith F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 111
+        "relicId": 114
       },
       {
         "location": "Neo V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 144
+        "relicId": 148
       }
     ],
     "id": 46
@@ -1627,35 +1676,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 43
+        "relicId": 44
       },
       {
         "location": "Lith T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 65
+        "relicId": 67
       },
       {
         "location": "Meso V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 104
+        "relicId": 107
       },
       {
         "location": "Neo S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 136
+        "relicId": 140
       },
       {
         "location": "Neo T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 139
+        "relicId": 143
       }
     ],
     "id": 47
@@ -1674,42 +1723,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 56
+        "relicId": 58
       },
       {
         "location": "Lith S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Meso T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 102
+        "relicId": 105
       },
       {
         "location": "Meso Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 109
+        "relicId": 112
       },
       {
         "location": "Neo H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 119
+        "relicId": 122
       },
       {
         "location": "Neo S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 134
+        "relicId": 138
       }
     ],
     "id": 48
@@ -1735,56 +1784,56 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 52
+        "relicId": 54
       },
       {
         "location": "Lith V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 67
+        "relicId": 69
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 77
+        "relicId": 79
       },
       {
         "location": "Meso N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 90
+        "relicId": 92
       },
       {
         "location": "Meso S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 99
+        "relicId": 102
       },
       {
         "location": "Neo B4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 114
+        "relicId": 117
       },
       {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 133
+        "relicId": 137
       },
       {
         "location": "Neo V6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 145
+        "relicId": 149
       }
     ],
     "id": 49
@@ -1803,28 +1852,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 104
+        "relicId": 107
       },
       {
         "location": "Meso V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 106
+        "relicId": 109
       },
       {
         "location": "Meso V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 107
+        "relicId": 110
       },
       {
         "location": "Neo S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 134
+        "relicId": 138
       }
     ],
     "id": 50
@@ -1850,14 +1899,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Neo S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 132
+        "relicId": 136
       }
     ],
     "id": 51
@@ -1876,28 +1925,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 44
+        "relicId": 46
       },
       {
         "location": "Meso C1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 75
+        "relicId": 77
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 90
+        "relicId": 92
       }
     ],
     "id": 52
@@ -1916,42 +1965,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 31
+        "relicId": 32
       },
       {
         "location": "Lith N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 55
+        "relicId": 57
       },
       {
         "location": "Lith S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 59
+        "relicId": 61
       },
       {
         "location": "Lith S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Neo A1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 110
+        "relicId": 113
       },
       {
         "location": "Neo V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 142
+        "relicId": 146
       }
     ],
     "id": 53
@@ -1977,28 +2026,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 34
+        "relicId": 35
       },
       {
         "location": "Lith A2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 40
+        "relicId": 41
       },
       {
         "location": "Lith Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 72
+        "relicId": 74
       },
       {
         "location": "Neo V7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 146
+        "relicId": 150
       }
     ],
     "id": 54
@@ -2031,21 +2080,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 108
+        "relicId": 111
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 143
+        "relicId": 147
       },
       {
         "location": "Neo V6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 145
+        "relicId": 149
       }
     ],
     "id": 55
@@ -2078,14 +2127,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 77
+        "relicId": 79
       }
     ],
     "id": 56
@@ -2118,28 +2167,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 43
+        "relicId": 44
       },
       {
         "location": "Meso O1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 93
+        "relicId": 96
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Neo A1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 110
+        "relicId": 113
       }
     ],
     "id": 57
@@ -2165,42 +2214,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 69
+        "relicId": 71
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 86
+        "relicId": 88
       },
       {
         "location": "Meso O2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 94
+        "relicId": 97
       },
       {
         "location": "Meso S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 101
+        "relicId": 104
       },
       {
         "location": "Neo N6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 128
+        "relicId": 131
       }
     ],
     "id": 58
@@ -2219,14 +2268,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 113
+        "relicId": 116
       },
       {
         "location": "Neo D1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 116
+        "relicId": 119
       }
     ],
     "id": 59
@@ -2252,7 +2301,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 53
+        "relicId": 55
       }
     ],
     "id": 60
@@ -2271,14 +2320,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 73
+        "relicId": 75
       },
       {
         "location": "Meso M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 87
+        "relicId": 89
       }
     ],
     "id": 61
@@ -2297,7 +2346,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 79
+        "relicId": 81
       }
     ],
     "id": 62
@@ -2316,7 +2365,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 115
+        "relicId": 118
       }
     ],
     "id": 63
@@ -2354,7 +2403,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 78
+        "relicId": 80
       }
     ],
     "id": 65
@@ -2380,35 +2429,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 31
+        "relicId": 32
       },
       {
         "location": "Axi V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 35
+        "relicId": 36
       },
       {
         "location": "Lith S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 63
+        "relicId": 65
       },
       {
         "location": "Neo T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 139
+        "relicId": 143
       },
       {
         "location": "Neo V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 140
+        "relicId": 144
       }
     ],
     "id": 66
@@ -2434,14 +2483,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 81
+        "relicId": 83
       },
       {
         "location": "Meso N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 88
+        "relicId": 90
       }
     ],
     "id": 67
@@ -2467,14 +2516,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 80
+        "relicId": 82
       },
       {
         "location": "Neo E1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 117
+        "relicId": 120
       }
     ],
     "id": 68
@@ -2493,14 +2542,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 82
+        "relicId": 84
       },
       {
         "location": "Neo F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 118
+        "relicId": 121
       }
     ],
     "id": 69
@@ -2519,14 +2568,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 83
+        "relicId": 85
       },
       {
         "location": "Neo S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 70
@@ -2552,7 +2601,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 48
+        "relicId": 50
       }
     ],
     "id": 71
@@ -2571,21 +2620,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 90
+        "relicId": 92
       },
       {
         "location": "Meso V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 108
+        "relicId": 111
       },
       {
         "location": "Neo M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 122
+        "relicId": 125
       }
     ],
     "id": 72
@@ -2625,21 +2674,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 120
+        "relicId": 123
       },
       {
         "location": "Neo L1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 121
+        "relicId": 124
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 129
+        "relicId": 132
       }
     ],
     "id": 73
@@ -2705,49 +2754,49 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 44
+        "relicId": 46
       },
       {
         "location": "Lith F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 46
+        "relicId": 48
       },
       {
         "location": "Lith N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 54
+        "relicId": 56
       },
       {
         "location": "Lith P1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 57
+        "relicId": 59
       },
       {
         "location": "Lith S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Lith S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 63
+        "relicId": 65
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 137
+        "relicId": 141
       }
     ],
     "id": 75
@@ -2766,56 +2815,56 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 52
+        "relicId": 54
       },
       {
         "location": "Lith V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 68
+        "relicId": 70
       },
       {
         "location": "Meso N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 88
+        "relicId": 90
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Meso T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 102
+        "relicId": 105
       },
       {
         "location": "Meso Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 109
+        "relicId": 112
       },
       {
         "location": "Neo B2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 112
+        "relicId": 115
       },
       {
         "location": "Neo N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 124
+        "relicId": 127
       }
     ],
     "id": 76
@@ -2848,56 +2897,56 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 36
+        "relicId": 37
       },
       {
         "location": "Lith F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Lith Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 72
+        "relicId": 74
       },
       {
         "location": "Meso N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 88
+        "relicId": 90
       },
       {
         "location": "Meso N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 89
+        "relicId": 91
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 125
+        "relicId": 128
       },
       {
         "location": "Neo V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 141
+        "relicId": 145
       }
     ],
     "id": 77
@@ -2916,28 +2965,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 46
+        "relicId": 48
       },
       {
         "location": "Meso F1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 81
+        "relicId": 83
       },
       {
         "location": "Meso H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 85
+        "relicId": 87
       },
       {
         "location": "Neo S8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 138
+        "relicId": 142
       }
     ],
     "id": 78
@@ -2970,21 +3019,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 67
+        "relicId": 69
       },
       {
         "location": "Neo T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 139
+        "relicId": 143
       },
       {
         "location": "Neo V6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 145
+        "relicId": 149
       }
     ],
     "id": 79
@@ -3024,7 +3073,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 119
+        "relicId": 122
       }
     ],
     "id": 80
@@ -3043,21 +3092,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 82
+        "relicId": 84
       },
       {
         "location": "Meso F3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 83
+        "relicId": 85
       },
       {
         "location": "Neo F1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 118
+        "relicId": 121
       }
     ],
     "id": 81
@@ -3076,14 +3125,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 48
+        "relicId": 50
       },
       {
         "location": "Meso E1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 80
+        "relicId": 82
       }
     ],
     "id": 82
@@ -3109,7 +3158,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 117
+        "relicId": 120
       }
     ],
     "id": 83
@@ -3128,14 +3177,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 49
+        "relicId": 51
       },
       {
         "location": "Neo S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 84
@@ -3168,56 +3217,56 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 96
+        "relicId": 99
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Neo N6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 128
+        "relicId": 131
       },
       {
         "location": "Neo V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 141
+        "relicId": 145
       },
       {
         "location": "Neo V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 142
+        "relicId": 146
       }
     ],
     "id": 85
@@ -3243,7 +3292,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 84
+        "relicId": 86
       }
     ],
     "id": 86
@@ -3276,28 +3325,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 36
+        "relicId": 37
       },
       {
         "location": "Lith S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Neo V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 141
+        "relicId": 145
       },
       {
         "location": "Neo Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 147
+        "relicId": 151
       }
     ],
     "id": 87
@@ -3342,14 +3391,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 48
+        "relicId": 50
       },
       {
         "location": "Lith G2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 49
+        "relicId": 51
       }
     ],
     "id": 89
@@ -3368,14 +3417,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 83
+        "relicId": 85
       },
       {
         "location": "Neo S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 90
@@ -3394,42 +3443,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 55
+        "relicId": 57
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 77
+        "relicId": 79
       },
       {
         "location": "Meso Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 109
+        "relicId": 112
       },
       {
         "location": "Neo K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 120
+        "relicId": 123
       },
       {
         "location": "Neo M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 122
+        "relicId": 125
       }
     ],
     "id": 91
@@ -3462,35 +3511,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 57
+        "relicId": 59
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Neo N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 127
+        "relicId": 130
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 137
+        "relicId": 141
       },
       {
         "location": "Neo V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 144
+        "relicId": 148
       }
     ],
     "id": 92
@@ -3523,21 +3572,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Lith H2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 51
+        "relicId": 53
       },
       {
         "location": "Meso H1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 85
+        "relicId": 87
       }
     ],
     "id": 93
@@ -3570,14 +3619,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 69
+        "relicId": 71
       },
       {
         "location": "Meso D2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 79
+        "relicId": 81
       }
     ],
     "id": 94
@@ -3596,14 +3645,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 58
+        "relicId": 60
       },
       {
         "location": "Meso N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 89
+        "relicId": 91
+      },
+      {
+        "location": "Neo R1 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 135
       }
     ],
     "id": 95
@@ -3629,7 +3685,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 32
+        "relicId": 33
+      },
+      {
+        "location": "Meso N6 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 95
       }
     ],
     "id": 96
@@ -3644,18 +3707,25 @@
     "imageName": "generic-weapon-prime-blade.png",
     "drops": [
       {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 30
+      },
+      {
         "location": "Lith F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Neo N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 123
+        "relicId": 126
       }
     ],
     "id": 97
@@ -3674,14 +3744,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 74
+        "relicId": 76
       },
       {
         "location": "Meso N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 92
+        "relicId": 94
       }
     ],
     "id": 98
@@ -3700,28 +3770,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 85
+        "relicId": 87
       },
       {
         "location": "Neo B4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 114
+        "relicId": 117
       },
       {
         "location": "Neo N8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 130
+        "relicId": 133
       },
       {
         "location": "Neo S8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 138
+        "relicId": 142
       }
     ],
     "id": 99
@@ -3773,7 +3843,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 119
+        "relicId": 122
       }
     ],
     "id": 101
@@ -3792,7 +3862,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 37
+        "relicId": 38
       }
     ],
     "id": 102
@@ -3830,14 +3900,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 86
+        "relicId": 88
       },
       {
         "location": "Neo K1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 120
+        "relicId": 123
       }
     ],
     "id": 104
@@ -3889,7 +3959,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 121
+        "relicId": 124
       }
     ],
     "id": 106
@@ -3908,14 +3978,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 74
+        "relicId": 76
       },
       {
         "location": "Neo B4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 114
+        "relicId": 117
       }
     ],
     "id": 107
@@ -3941,7 +4011,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 80
+        "relicId": 82
       }
     ],
     "id": 108
@@ -3967,7 +4037,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 48
+        "relicId": 50
       }
     ],
     "id": 109
@@ -3993,7 +4063,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 110
@@ -4012,14 +4082,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 49
+        "relicId": 51
       },
       {
         "location": "Meso F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 82
+        "relicId": 84
       }
     ],
     "id": 111
@@ -4059,70 +4129,70 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 37
+        "relicId": 38
       },
       {
         "location": "Lith A2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 40
+        "relicId": 41
       },
       {
         "location": "Lith H2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 51
+        "relicId": 53
       },
       {
         "location": "Lith T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 66
+        "relicId": 68
       },
       {
         "location": "Lith V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 68
+        "relicId": 70
       },
       {
         "location": "Meso S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 99
+        "relicId": 102
       },
       {
         "location": "Meso T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 103
+        "relicId": 106
       },
       {
         "location": "Meso V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 107
+        "relicId": 110
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 125
+        "relicId": 128
       },
       {
         "location": "Neo S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 132
+        "relicId": 136
       }
     ],
     "id": 112
@@ -4148,42 +4218,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 61
+        "relicId": 63
       },
       {
         "location": "Lith S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Lith V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 71
+        "relicId": 73
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 77
+        "relicId": 79
       },
       {
         "location": "Meso D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 78
+        "relicId": 80
       },
       {
         "location": "Neo N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 124
+        "relicId": 127
       }
     ],
     "id": 113
@@ -4237,28 +4307,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 38
+        "relicId": 39
       },
       {
         "location": "Lith M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 53
+        "relicId": 55
       },
       {
         "location": "Meso D2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 79
+        "relicId": 81
       },
       {
         "location": "Meso N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 92
+        "relicId": 94
       }
     ],
     "id": 114
@@ -4277,7 +4347,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 109
+        "relicId": 112
       }
     ],
     "id": 115
@@ -4296,7 +4366,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 121
+        "relicId": 124
       }
     ],
     "id": 116
@@ -4334,7 +4404,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 43
+        "relicId": 44
       }
     ],
     "id": 118
@@ -4360,7 +4430,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 83
+        "relicId": 85
       }
     ],
     "id": 119
@@ -4379,7 +4449,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 49
+        "relicId": 51
       }
     ],
     "id": 120
@@ -4398,7 +4468,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 117
+        "relicId": 120
       }
     ],
     "id": 121
@@ -4436,14 +4506,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 53
+        "relicId": 55
       },
       {
         "location": "Meso M1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 87
+        "relicId": 89
       }
     ],
     "id": 123
@@ -4462,14 +4532,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 73
+        "relicId": 75
       },
       {
         "location": "Neo B3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 113
+        "relicId": 116
       }
     ],
     "id": 124
@@ -4488,14 +4558,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 32
+        "relicId": 33
       },
       {
         "location": "Lith B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 41
+        "relicId": 42
       }
     ],
     "id": 125
@@ -4521,7 +4591,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 116
+        "relicId": 119
       }
     ],
     "id": 126
@@ -4540,7 +4610,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 122
+        "relicId": 125
       }
     ],
     "id": 127
@@ -4559,14 +4629,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Neo L1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 121
+        "relicId": 124
       }
     ],
     "id": 128
@@ -4585,14 +4655,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 72
+        "relicId": 74
       },
       {
         "location": "Meso H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 85
+        "relicId": 87
       }
     ],
     "id": 129
@@ -4611,14 +4681,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 94
+        "relicId": 97
       },
       {
         "location": "Neo V6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 145
+        "relicId": 149
       }
     ],
     "id": 130
@@ -4644,7 +4714,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 130
+        "relicId": 133
       }
     ],
     "id": 131
@@ -4670,14 +4740,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 37
+        "relicId": 38
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 77
+        "relicId": 79
       }
     ],
     "id": 132
@@ -4696,21 +4766,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Lith H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Meso S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 101
+        "relicId": 104
       }
     ],
     "id": 133
@@ -4736,14 +4806,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 56
+        "relicId": 58
       },
       {
         "location": "Meso N3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 90
+        "relicId": 92
       }
     ],
     "id": 134
@@ -4776,35 +4846,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 54
+        "relicId": 56
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Meso K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 86
+        "relicId": 88
       },
       {
         "location": "Meso S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 97
+        "relicId": 100
       },
       {
         "location": "Neo Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 147
+        "relicId": 151
       }
     ],
     "id": 135
@@ -4830,7 +4900,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 81
+        "relicId": 83
       }
     ],
     "id": 136
@@ -4849,28 +4919,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 55
+        "relicId": 57
       },
       {
         "location": "Meso N5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 92
+        "relicId": 94
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 125
+        "relicId": 128
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 129
+        "relicId": 132
       }
     ],
     "id": 137
@@ -4889,21 +4959,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 91
+        "relicId": 93
       },
       {
         "location": "Meso V2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 105
+        "relicId": 108
       },
       {
         "location": "Neo N4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 126
+        "relicId": 129
       }
     ],
     "id": 138
@@ -4929,14 +4999,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 127
+        "relicId": 130
       },
       {
         "location": "Neo S8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 138
+        "relicId": 142
       }
     ],
     "id": 139
@@ -4969,7 +5039,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 128
+        "relicId": 131
       }
     ],
     "id": 140
@@ -4988,7 +5058,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 124
+        "relicId": 127
       }
     ],
     "id": 141
@@ -5007,14 +5077,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 54
+        "relicId": 56
       },
       {
         "location": "Neo V1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 140
+        "relicId": 144
       }
     ],
     "id": 142
@@ -5033,14 +5103,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 44
+        "relicId": 46
       },
       {
         "location": "Meso C1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 75
+        "relicId": 77
       }
     ],
     "id": 143
@@ -5059,21 +5129,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 44
+        "relicId": 46
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 95
+        "relicId": 98
       },
       {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 133
+        "relicId": 137
       }
     ],
     "id": 144
@@ -5088,18 +5158,25 @@
     "imageName": "blueprint.png",
     "drops": [
       {
+        "location": "Lith B4 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 45
+      },
+      {
         "location": "Lith S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 59
+        "relicId": 61
       },
       {
         "location": "Neo V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 140
+        "relicId": 144
       }
     ],
     "id": 145
@@ -5109,7 +5186,7 @@
     "name": "Nyx Prime Chassis",
     "description": "Chassis component of the Nyx Prime Warframe.",
     "itemCount": 1,
-    "ducats": 100,
+    "ducats": 65,
     "tradable": true,
     "imageName": "generic-warframe-prime-chassis.png",
     "drops": [
@@ -5118,7 +5195,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 123
+        "relicId": 126
+      },
+      {
+        "location": "Neo R1 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 135
       }
     ],
     "id": 146
@@ -5137,7 +5221,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 88
+        "relicId": 90
+      },
+      {
+        "location": "Meso N6 Intact",
+        "type": "Relics",
+        "rarity": "Rare",
+        "chance": 0.02,
+        "relicId": 95
       }
     ],
     "id": 147
@@ -5152,11 +5243,18 @@
     "imageName": "generic-warframe-prime-system.png",
     "drops": [
       {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 30
+      },
+      {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 133
+        "relicId": 137
       }
     ],
     "id": 148
@@ -5175,28 +5273,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 51
+        "relicId": 53
       },
       {
         "location": "Meso H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 85
+        "relicId": 87
       },
       {
         "location": "Meso N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 91
+        "relicId": 93
       },
       {
         "location": "Neo B5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 115
+        "relicId": 118
       }
     ],
     "id": 149
@@ -5229,7 +5327,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 74
+        "relicId": 76
       }
     ],
     "id": 150
@@ -5248,14 +5346,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 93
+        "relicId": 96
       },
       {
         "location": "Meso O2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 94
+        "relicId": 97
       }
     ],
     "id": 151
@@ -5307,28 +5405,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 38
+        "relicId": 39
       },
       {
         "location": "Lith F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 46
+        "relicId": 48
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 95
+        "relicId": 98
       }
     ],
     "id": 153
@@ -5354,28 +5452,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 30
+        "relicId": 31
       },
       {
         "location": "Axi V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 34
+        "relicId": 35
       },
       {
         "location": "Lith K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 52
+        "relicId": 54
       },
       {
         "location": "Neo O1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 131
+        "relicId": 134
       }
     ],
     "id": 154
@@ -5394,28 +5492,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 31
+        "relicId": 32
       },
       {
         "location": "Axi V8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 38
+        "relicId": 39
       },
       {
         "location": "Lith F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 125
+        "relicId": 128
       }
     ],
     "id": 155
@@ -5441,7 +5539,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 131
+        "relicId": 134
       }
     ],
     "id": 156
@@ -5460,21 +5558,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 42
+        "relicId": 43
       },
       {
         "location": "Lith B3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 43
+        "relicId": 44
       },
       {
         "location": "Meso D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 78
+        "relicId": 80
       }
     ],
     "id": 157
@@ -5507,21 +5605,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Lith H2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 51
+        "relicId": 53
       },
       {
         "location": "Meso B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 73
+        "relicId": 75
       }
     ],
     "id": 158
@@ -5554,42 +5652,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 73
+        "relicId": 75
       },
       {
         "location": "Meso D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 78
+        "relicId": 80
       },
       {
         "location": "Meso K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 86
+        "relicId": 88
       },
       {
         "location": "Meso N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 91
+        "relicId": 93
       },
       {
         "location": "Neo H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 119
+        "relicId": 122
       },
       {
         "location": "Neo Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 147
+        "relicId": 151
       }
     ],
     "id": 159
@@ -5636,56 +5734,56 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 34
+        "relicId": 35
       },
       {
         "location": "Lith F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 46
+        "relicId": 48
       },
       {
         "location": "Lith H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Lith S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 61
+        "relicId": 63
       },
       {
         "location": "Meso H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 85
+        "relicId": 87
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 95
+        "relicId": 98
       },
       {
         "location": "Meso V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 105
+        "relicId": 108
       },
       {
         "location": "Neo Z1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 147
+        "relicId": 151
       }
     ],
     "id": 160
@@ -5704,28 +5802,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 58
+        "relicId": 60
       },
       {
         "location": "Lith S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Meso S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 96
+        "relicId": 99
       },
       {
         "location": "Meso S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 101
+        "relicId": 104
       }
     ],
     "id": 161
@@ -5744,70 +5842,70 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 42
+        "relicId": 43
       },
       {
         "location": "Lith V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 67
+        "relicId": 69
       },
       {
         "location": "Lith V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 68
+        "relicId": 70
       },
       {
         "location": "Lith V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 69
+        "relicId": 71
       },
       {
         "location": "Meso D2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 79
+        "relicId": 81
       },
       {
         "location": "Meso F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 81
+        "relicId": 83
       },
       {
         "location": "Meso O1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 93
+        "relicId": 96
       },
       {
         "location": "Meso O2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 94
+        "relicId": 97
       },
       {
         "location": "Meso T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 103
+        "relicId": 106
       },
       {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 133
+        "relicId": 137
       }
     ],
     "id": 162
@@ -5833,70 +5931,70 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 58
+        "relicId": 60
       },
       {
         "location": "Lith S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Meso S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 96
+        "relicId": 99
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 111
+        "relicId": 114
       },
       {
         "location": "Neo M1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 122
+        "relicId": 125
       },
       {
         "location": "Neo N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 125
+        "relicId": 128
       },
       {
         "location": "Neo N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 126
+        "relicId": 129
       },
       {
         "location": "Neo N8 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 130
+        "relicId": 133
       },
       {
         "location": "Neo V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 142
+        "relicId": 146
       },
       {
         "location": "Neo V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 144
+        "relicId": 148
       }
     ],
     "id": 163
@@ -5922,63 +6020,63 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Lith F2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Lith N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 55
+        "relicId": 57
       },
       {
         "location": "Lith V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 67
+        "relicId": 69
       },
       {
         "location": "Lith V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 68
+        "relicId": 70
       },
       {
         "location": "Meso N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 91
+        "relicId": 93
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 95
+        "relicId": 98
       },
       {
         "location": "Meso T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 102
+        "relicId": 105
       },
       {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 133
+        "relicId": 137
       }
     ],
     "id": 164
@@ -5997,7 +6095,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 146
+        "relicId": 150
       }
     ],
     "id": 165
@@ -6016,7 +6114,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 57
+        "relicId": 59
       }
     ],
     "id": 166
@@ -6054,14 +6152,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 82
+        "relicId": 84
       },
       {
         "location": "Neo E1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 117
+        "relicId": 120
       }
     ],
     "id": 168
@@ -6087,7 +6185,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 169
@@ -6106,14 +6204,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 48
+        "relicId": 50
       },
       {
         "location": "Meso F3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 83
+        "relicId": 85
       }
     ],
     "id": 170
@@ -6133,6 +6231,13 @@
         "rarity": "Rare",
         "chance": 0.02,
         "relicId": 27
+      },
+      {
+        "location": "Neo R1 Intact",
+        "type": "Relics",
+        "rarity": "Rare",
+        "chance": 0.02,
+        "relicId": 135
       }
     ],
     "id": 171
@@ -6151,7 +6256,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 87
+        "relicId": 89
+      },
+      {
+        "location": "Meso N6 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 95
       }
     ],
     "id": 172
@@ -6170,7 +6282,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 41
+        "relicId": 42
+      },
+      {
+        "location": "Lith B4 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 45
       }
     ],
     "id": 173
@@ -6185,11 +6304,18 @@
     "imageName": "generic-warframe-prime-system.png",
     "drops": [
       {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.25329999999999997,
+        "relicId": 30
+      },
+      {
         "location": "Neo B3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 113
+        "relicId": 116
       }
     ],
     "id": 174
@@ -6208,28 +6334,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 61
+        "relicId": 63
       },
       {
         "location": "Meso C3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 77
+        "relicId": 79
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Neo S1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 132
+        "relicId": 136
       }
     ],
     "id": 175
@@ -6248,14 +6374,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 96
+        "relicId": 99
       },
       {
         "location": "Neo S2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 133
+        "relicId": 137
       }
     ],
     "id": 176
@@ -6274,21 +6400,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 39
+        "relicId": 40
       },
       {
         "location": "Meso S5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 99
+        "relicId": 102
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 143
+        "relicId": 147
       }
     ],
     "id": 177
@@ -6314,42 +6440,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 30
+        "relicId": 31
       },
       {
         "location": "Lith H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 50
+        "relicId": 52
       },
       {
         "location": "Meso C1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 75
+        "relicId": 77
       },
       {
         "location": "Meso F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 81
+        "relicId": 83
       },
       {
         "location": "Meso N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 91
+        "relicId": 93
       },
       {
         "location": "Neo N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 127
+        "relicId": 130
       }
     ],
     "id": 178
@@ -6369,6 +6495,13 @@
         "rarity": "Rare",
         "chance": 0.02,
         "relicId": 28
+      },
+      {
+        "location": "Axi S3 Intact",
+        "type": "Relics",
+        "rarity": "Rare",
+        "chance": 0.02,
+        "relicId": 30
       }
     ],
     "id": 179
@@ -6383,11 +6516,18 @@
     "imageName": "blueprint.png",
     "drops": [
       {
+        "location": "Lith B4 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 45
+      },
+      {
         "location": "Lith F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 46
+        "relicId": 48
       }
     ],
     "id": 180
@@ -6406,7 +6546,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 75
+        "relicId": 77
+      },
+      {
+        "location": "Meso N6 Intact",
+        "type": "Relics",
+        "rarity": "Uncommon",
+        "chance": 0.11,
+        "relicId": 95
       }
     ],
     "id": 181
@@ -6425,14 +6572,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 82
+        "relicId": 84
       },
       {
         "location": "Neo F1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 118
+        "relicId": 121
       }
     ],
     "id": 182
@@ -6458,7 +6605,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 118
+        "relicId": 121
       }
     ],
     "id": 183
@@ -6484,7 +6631,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 135
+        "relicId": 139
       }
     ],
     "id": 184
@@ -6510,14 +6657,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 84
+        "relicId": 86
       },
       {
         "location": "Neo L1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 121
+        "relicId": 124
       }
     ],
     "id": 185
@@ -6536,21 +6683,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 37
+        "relicId": 38
       },
       {
         "location": "Lith T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 66
+        "relicId": 68
       },
       {
         "location": "Meso V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 108
+        "relicId": 111
       }
     ],
     "id": 186
@@ -6569,14 +6716,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 136
+        "relicId": 140
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 137
+        "relicId": 141
       }
     ],
     "id": 187
@@ -6595,21 +6742,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 74
+        "relicId": 76
       },
       {
         "location": "Neo K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 120
+        "relicId": 123
       },
       {
         "location": "Neo V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 144
+        "relicId": 148
       }
     ],
     "id": 188
@@ -6628,7 +6775,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 134
+        "relicId": 138
       }
     ],
     "id": 189
@@ -6647,14 +6794,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 53
+        "relicId": 55
       },
       {
         "location": "Neo S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 132
+        "relicId": 136
       }
     ],
     "id": 190
@@ -6673,14 +6820,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Neo N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 123
+        "relicId": 126
       }
     ],
     "id": 191
@@ -6699,14 +6846,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 59
+        "relicId": 61
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 95
+        "relicId": 98
       }
     ],
     "id": 192
@@ -6725,21 +6872,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 62
+        "relicId": 64
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Neo S3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 134
+        "relicId": 138
       }
     ],
     "id": 193
@@ -6758,35 +6905,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 55
+        "relicId": 57
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Meso V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 104
+        "relicId": 107
       },
       {
         "location": "Meso V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 106
+        "relicId": 109
       },
       {
         "location": "Meso V5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 108
+        "relicId": 111
       }
     ],
     "id": 194
@@ -6805,35 +6952,35 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 58
+        "relicId": 60
       },
       {
         "location": "Lith S3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 60
+        "relicId": 62
       },
       {
         "location": "Lith S6 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 63
+        "relicId": 65
       },
       {
         "location": "Meso S3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 97
+        "relicId": 100
       },
       {
         "location": "Neo S8 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 138
+        "relicId": 142
       }
     ],
     "id": 195
@@ -6852,21 +6999,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 64
+        "relicId": 66
       },
       {
         "location": "Meso S5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 99
+        "relicId": 102
       },
       {
         "location": "Meso S7 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 101
+        "relicId": 104
       }
     ],
     "id": 196
@@ -6899,7 +7046,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 130
+        "relicId": 133
       }
     ],
     "id": 197
@@ -6918,14 +7065,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 128
+        "relicId": 131
       },
       {
         "location": "Neo S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 137
+        "relicId": 141
       }
     ],
     "id": 198
@@ -6944,14 +7091,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 56
+        "relicId": 58
       },
       {
         "location": "Lith P1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 57
+        "relicId": 59
       }
     ],
     "id": 199
@@ -6970,7 +7117,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 102
+        "relicId": 105
       }
     ],
     "id": 200
@@ -7022,7 +7169,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 94
+        "relicId": 97
       }
     ],
     "id": 202
@@ -7041,14 +7188,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 66
+        "relicId": 68
       },
       {
         "location": "Meso T2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 103
+        "relicId": 106
       }
     ],
     "id": 203
@@ -7067,35 +7214,35 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 52
+        "relicId": 54
       },
       {
         "location": "Lith V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 69
+        "relicId": 71
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Neo B4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 114
+        "relicId": 117
       },
       {
         "location": "Neo H1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 119
+        "relicId": 122
       }
     ],
     "id": 204
@@ -7114,21 +7261,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 30
+        "relicId": 31
       },
       {
         "location": "Lith T1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 65
+        "relicId": 67
       },
       {
         "location": "Neo T1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 139
+        "relicId": 143
       }
     ],
     "id": 205
@@ -7147,49 +7294,49 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 35
+        "relicId": 36
       },
       {
         "location": "Meso K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 86
+        "relicId": 88
       },
       {
         "location": "Meso N5 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 92
+        "relicId": 94
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Meso T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 103
+        "relicId": 106
       },
       {
         "location": "Neo S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 136
+        "relicId": 140
       },
       {
         "location": "Neo V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 142
+        "relicId": 146
       }
     ],
     "id": 206
@@ -7208,28 +7355,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 42
+        "relicId": 43
       },
       {
         "location": "Meso S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 95
+        "relicId": 98
       },
       {
         "location": "Neo B2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 112
+        "relicId": 115
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 143
+        "relicId": 147
       }
     ],
     "id": 207
@@ -7255,21 +7402,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 52
+        "relicId": 54
       },
       {
         "location": "Meso S4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 98
+        "relicId": 101
       },
       {
         "location": "Neo N6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 128
+        "relicId": 131
       }
     ],
     "id": 208
@@ -7302,14 +7449,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 61
+        "relicId": 63
       },
       {
         "location": "Neo S1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 132
+        "relicId": 136
       }
     ],
     "id": 209
@@ -7335,28 +7482,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Neo D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 116
+        "relicId": 119
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 129
+        "relicId": 132
       },
       {
         "location": "Neo S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 136
+        "relicId": 140
       }
     ],
     "id": 210
@@ -7389,28 +7536,28 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 32
+        "relicId": 33
       },
       {
         "location": "Axi V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Axi V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 34
+        "relicId": 35
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 111
+        "relicId": 114
       }
     ],
     "id": 211
@@ -7429,49 +7576,49 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 37
+        "relicId": 38
       },
       {
         "location": "Lith A2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 40
+        "relicId": 41
       },
       {
         "location": "Lith N3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 56
+        "relicId": 58
       },
       {
-        "location": "Meso B2 Intact",
+        "location": "Lith T2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 74
+        "relicId": 68
       },
       {
         "location": "Meso S3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 97
+        "relicId": 100
       },
       {
         "location": "Meso S6 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 100
+        "relicId": 103
       },
       {
         "location": "Neo K1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 120
+        "relicId": 123
       }
     ],
     "id": 212
@@ -7490,21 +7637,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 35
+        "relicId": 36
       },
       {
         "location": "Axi V6 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 36
+        "relicId": 37
       },
       {
         "location": "Neo V7 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 146
+        "relicId": 150
       }
     ],
     "id": 213
@@ -7523,42 +7670,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 63
+        "relicId": 65
       },
       {
         "location": "Lith T1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 65
+        "relicId": 67
       },
       {
         "location": "Meso C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 76
+        "relicId": 78
       },
       {
         "location": "Meso D2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 79
+        "relicId": 81
       },
       {
         "location": "Meso V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 107
+        "relicId": 110
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 129
+        "relicId": 132
       }
     ],
     "id": 214
@@ -7577,21 +7724,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 69
+        "relicId": 71
       },
       {
         "location": "Lith V5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 71
+        "relicId": 73
       },
       {
         "location": "Meso V3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 106
+        "relicId": 109
       }
     ],
     "id": 215
@@ -7610,21 +7757,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Neo D1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 116
+        "relicId": 119
       },
       {
         "location": "Neo N2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 124
+        "relicId": 127
       }
     ],
     "id": 216
@@ -7643,7 +7790,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 134
+        "relicId": 138
       }
     ],
     "id": 217
@@ -7662,14 +7809,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 39
+        "relicId": 40
       },
       {
         "location": "Meso V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 105
+        "relicId": 108
       }
     ],
     "id": 218
@@ -7688,14 +7835,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 47
+        "relicId": 49
       },
       {
         "location": "Neo V2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 141
+        "relicId": 145
       }
     ],
     "id": 219
@@ -7714,28 +7861,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 31
+        "relicId": 32
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Meso V4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 107
+        "relicId": 110
       },
       {
         "location": "Neo V6 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 145
+        "relicId": 149
       }
     ],
     "id": 220
@@ -7754,21 +7901,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 89
+        "relicId": 91
       },
       {
         "location": "Neo V3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 142
+        "relicId": 146
       },
       {
         "location": "Neo V5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 144
+        "relicId": 148
       }
     ],
     "id": 221
@@ -7787,14 +7934,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 68
+        "relicId": 70
       },
       {
         "location": "Neo N2 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 124
+        "relicId": 127
       }
     ],
     "id": 222
@@ -7827,14 +7974,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 30
+        "relicId": 31
       },
       {
         "location": "Neo N1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 123
+        "relicId": 126
       }
     ],
     "id": 223
@@ -7853,14 +8000,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 39
+        "relicId": 40
       },
       {
         "location": "Neo A1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 110
+        "relicId": 113
       }
     ],
     "id": 224
@@ -7879,7 +8026,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 104
+        "relicId": 107
       }
     ],
     "id": 225
@@ -7898,28 +8045,28 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 32
+        "relicId": 33
       },
       {
         "location": "Axi V3 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 33
+        "relicId": 34
       },
       {
         "location": "Axi V4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 34
+        "relicId": 35
       },
       {
         "location": "Neo B1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 111
+        "relicId": 114
       }
     ],
     "id": 226
@@ -7938,42 +8085,42 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 35
+        "relicId": 36
       },
       {
         "location": "Lith C2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 45
+        "relicId": 47
       },
       {
         "location": "Lith V4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 70
+        "relicId": 72
       },
       {
         "location": "Meso G1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 84
+        "relicId": 86
       },
       {
         "location": "Meso S7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 101
+        "relicId": 104
       },
       {
         "location": "Neo N7 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 129
+        "relicId": 132
       }
     ],
     "id": 227
@@ -7999,14 +8146,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 112
+        "relicId": 115
       },
       {
         "location": "Neo N4 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 126
+        "relicId": 129
       }
     ],
     "id": 228
@@ -8025,21 +8172,21 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 37
+        "relicId": 38
       },
       {
         "location": "Meso V5 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 108
+        "relicId": 111
       },
       {
         "location": "Neo V4 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 143
+        "relicId": 147
       }
     ],
     "id": 229
@@ -8065,14 +8212,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 131
+        "relicId": 134
       },
       {
         "location": "Neo V1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 140
+        "relicId": 144
       }
     ],
     "id": 230
@@ -8091,21 +8238,21 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 38
+        "relicId": 39
       },
       {
         "location": "Meso V2 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 105
+        "relicId": 108
       },
       {
         "location": "Meso V3 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 106
+        "relicId": 109
       }
     ],
     "id": 231
@@ -8124,14 +8271,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 31
+        "relicId": 32
       },
       {
         "location": "Axi V8 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 38
+        "relicId": 39
       }
     ],
     "id": 232
@@ -8150,14 +8297,14 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 67
+        "relicId": 69
       },
       {
         "location": "Neo O1 Intact",
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 131
+        "relicId": 134
       }
     ],
     "id": 233
@@ -8183,7 +8330,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 117
+        "relicId": 120
       }
     ],
     "id": 234
@@ -8221,7 +8368,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 49
+        "relicId": 51
       }
     ],
     "id": 236
@@ -8240,7 +8387,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 80
+        "relicId": 82
       }
     ],
     "id": 237
@@ -8259,14 +8406,14 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 109
+        "relicId": 112
       },
       {
         "location": "Neo Z1 Intact",
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 147
+        "relicId": 151
       }
     ],
     "id": 238
@@ -8292,7 +8439,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.11,
-        "relicId": 120
+        "relicId": 123
       }
     ],
     "id": 239
@@ -8318,7 +8465,7 @@
         "type": "Relics",
         "rarity": "Uncommon",
         "chance": 0.25329999999999997,
-        "relicId": 51
+        "relicId": 53
       }
     ],
     "id": 240
@@ -8337,7 +8484,7 @@
         "type": "Relics",
         "rarity": "Rare",
         "chance": 0.02,
-        "relicId": 72
+        "relicId": 74
       }
     ],
     "id": 241
